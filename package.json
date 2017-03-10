@@ -1,0 +1,37 @@
+{
+  "name": "eslint-config-hardcore-fp",
+  "version": "1.0.0",
+  "description": "Hardcore ESLint Shareable Config for functional programming",
+  "main": "index.json",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvgenyOrekhov/eslint-config-hardcore-fp.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "eslintconfig",
+    "eslint-config",
+    "hardcore",
+    "fp",
+    "functional",
+    "functional programming",
+    "functional-programming"
+  ],
+  "author": {
+    "name": "Evgeny Orekhov",
+    "url": "https://plus.google.com/+ЕвгенийОрехов"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EvgenyOrekhov/eslint-config-hardcore-fp/issues"
+  },
+  "homepage": "https://github.com/EvgenyOrekhov/eslint-config-hardcore-fp#readme",
+  "dependencies": {
+    "eslint-config-hardcore": "^1.10.0",
+    "eslint-plugin-fp": "^2.3.0"
+  }
+}
