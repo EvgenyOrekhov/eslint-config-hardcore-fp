@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/EvgenyOrekhov/eslint-config-hardcore-fp#readme",
   "dependencies": {
-    "eslint-config-hardcore": "^1.10.0",
+    "eslint-config-hardcore": "^1.11.0",
     "eslint-plugin-fp": "^2.3.0"
   }
 }
