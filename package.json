@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-hardcore-fp",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Hardcore ESLint Shareable Config for functional programming",
   "main": "index.json",
   "scripts": {
