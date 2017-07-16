@@ -7,6 +7,11 @@
 [Shareable Configs](http://eslint.org/docs/developer-guide/shareable-configs)
 are designed to work with the `extends` feature of `.eslintrc` files.
 
+This config extends the
+[hardcore](https://github.com/EvgenyOrekhov/eslint-config-hardcore)
+config and adds rules from
+[eslint-plugin-fp](https://github.com/jfmengels/eslint-plugin-fp).
+
 This config is designed to be compatible with Douglas Crockford's
 [JSLint](http://jslint.com/).
 
