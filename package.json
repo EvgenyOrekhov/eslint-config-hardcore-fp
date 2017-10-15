@@ -1,6 +1,6 @@
 {
     "name": "eslint-config-hardcore-fp",
-    "version": "3.1.1",
+    "version": "3.2.0",
     "description": "Hardcore ESLint Shareable Config for functional programming",
     "main": "index.json",
     "scripts": {
@@ -31,7 +31,7 @@
     },
     "homepage": "https://github.com/EvgenyOrekhov/eslint-config-hardcore-fp#readme",
     "dependencies": {
-        "eslint-config-hardcore": "^3.1.1",
+        "eslint-config-hardcore": "^3.2.0",
         "eslint-plugin-fp": "^2.3.0"
     }
 }
