@@ -1,8 +1,11 @@
 {
-    "extends": "hardcore",
-
     "plugins": [
         "fp"
+    ],
+
+    "extends": [
+        "hardcore",
+        "plugin:fp/recommended"
     ],
 
     "rules": {
