@@ -33,5 +33,8 @@
     "dependencies": {
         "eslint-config-hardcore": "^3.6.0",
         "eslint-plugin-fp": "^2.3.0"
-    }
+    },
+    "files": [
+        "index.json"
+    ]
 }
