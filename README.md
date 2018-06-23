@@ -17,10 +17,10 @@ This config is designed to be compatible with Douglas Crockford's
 
 | Rules                                                                      | Total | Enabled |
 | -------------------------------------------------------------------------- | ----: | ------: |
-| [ESLint](http://eslint.org/docs/rules/)                                    | 249   | **226** |
+| [ESLint](http://eslint.org/docs/rules/)                                    | 252   | **228** |
 | [eslint-plugin-promise](https://github.com/xjamundx/eslint-plugin-promise) | 14    | **11**  |
 | [eslint-plugin-fp](https://github.com/jfmengels/eslint-plugin-fp)          | 17    | **15**  |
-| **Total**                                                                  | 280   | **252** |
+| **Total**                                                                  | 283   | **254** |
 
 ## Usage
 
