@@ -4,7 +4,7 @@
 
 ## About
 
-[Shareable Configs](http://eslint.org/docs/developer-guide/shareable-configs)
+[Shareable Configs](https://eslint.org/docs/developer-guide/shareable-configs)
 are designed to work with the `extends` feature of `.eslintrc` files.
 
 This config extends the
@@ -13,14 +13,15 @@ config and adds rules from
 [eslint-plugin-fp](https://github.com/jfmengels/eslint-plugin-fp).
 
 This config is designed to be compatible with Douglas Crockford's
-[JSLint](http://jslint.com/).
+[JSLint](https://jslint.com/).
 
-| Rules                                                                      | Total | Enabled |
-| -------------------------------------------------------------------------- | ----: | ------: |
-| [ESLint](http://eslint.org/docs/rules/)                                    | 255   | **231** |
-| [eslint-plugin-promise](https://github.com/xjamundx/eslint-plugin-promise) | 14    | **11**  |
-| [eslint-plugin-fp](https://github.com/jfmengels/eslint-plugin-fp)          | 17    | **15**  |
-| **Total**                                                                  | 286   | **257** |
+| Rules                                                                            | Total | Enabled |
+| -------------------------------------------------------------------------------- | ----: | ------: |
+| [ESLint](https://eslint.org/docs/rules/)                                         | 255   | **231** |
+| [eslint-plugin-promise](https://github.com/xjamundx/eslint-plugin-promise)       | 14    | **11**  |
+| [eslint-plugin-security](https://github.com/nodesecurity/eslint-plugin-security) | 13    | **12**  |
+| [eslint-plugin-fp](https://github.com/jfmengels/eslint-plugin-fp)                | 17    | **15**  |
+| **Total**                                                                        | 299   | **269** |
 
 ## Usage
 
@@ -31,7 +32,7 @@ npm install eslint-config-hardcore-fp --save-dev
 ```
 
 Then, add `"extends": "hardcore-fp"` to your .eslintrc file and specify your
-[environments](http://eslint.org/docs/user-guide/configuring#specifying-environments):
+[environments](https://eslint.org/docs/user-guide/configuring#specifying-environments):
 
 ```json
 {
