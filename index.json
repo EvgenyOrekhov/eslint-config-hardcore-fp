@@ -4,8 +4,7 @@
     ],
 
     "extends": [
-        "hardcore",
-        "plugin:fp/recommended"
+        "hardcore"
     ],
 
     "rules": {
@@ -31,14 +30,6 @@
             {
                 "commonjs": true,
                 "exceptions": []
-            }
-        ],
-
-        "fp/no-nil": "off",
-        "fp/no-unused-expression": [
-            "off",
-            {
-                "allowUseStrict": true
             }
         ]
     }

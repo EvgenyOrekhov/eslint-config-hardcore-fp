@@ -1,0 +1,9 @@
+{
+    "fp/no-nil": "off",
+    "fp/no-unused-expression": [
+        "off",
+        {
+            "allowUseStrict": true
+        }
+    ]
+}
