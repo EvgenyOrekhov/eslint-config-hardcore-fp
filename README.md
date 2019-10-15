@@ -15,15 +15,17 @@ config and adds rules from
 This config is designed to be compatible with Douglas Crockford's
 [JSLint](https://jslint.com/).
 
-| Rules                                                                            | Total | Enabled |
-| -------------------------------------------------------------------------------- | ----: | ------: |
-| [ESLint](https://eslint.org/docs/rules/)                                         | 259   | **236** |
-| [eslint-plugin-promise](https://github.com/xjamundx/eslint-plugin-promise)       | 14    | **11**  |
-| [eslint-plugin-security](https://github.com/nodesecurity/eslint-plugin-security) | 13    | **12**  |
-| [eslint-plugin-import](https://github.com/benmosher/eslint-plugin-import)        | 40    | **32**  |
-| [eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn)   | 43    | **36**  |
-| [eslint-plugin-fp](https://github.com/jfmengels/eslint-plugin-fp)                | 17    | **15**  |
-| **Total**                                                                        | 386   | **342** |
+| Rules                                                                                        | Total | Enabled |
+| -------------------------------------------------------------------------------------------- | ----: | ------: |
+| [ESLint](https://eslint.org/docs/rules/)                                                     | 259   | **236** |
+| [eslint-plugin-promise](https://github.com/xjamundx/eslint-plugin-promise)                   | 14    | **11**  |
+| [eslint-plugin-security](https://github.com/nodesecurity/eslint-plugin-security)             | 13    | **12**  |
+| [eslint-plugin-import](https://github.com/benmosher/eslint-plugin-import)                    | 40    | **32**  |
+| [eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn)               | 43    | **36**  |
+| [eslint-plugin-array-func](https://github.com/freaktechnik/eslint-plugin-array-func)         | 6     | **6**   |
+| [eslint-plugin-optimize-regex](https://github.com/BrainMaestro/eslint-plugin-optimize-regex) | 1     | **1**   |
+| [eslint-plugin-fp](https://github.com/jfmengels/eslint-plugin-fp)                            | 17    | **15**  |
+| **Total**                                                                                    | 393   | **349** |
 
 ## Usage
 
