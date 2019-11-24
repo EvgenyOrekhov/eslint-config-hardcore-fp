@@ -17,7 +17,7 @@ This config is designed to be compatible with Douglas Crockford's
 
 | Rules                                                                                        | Total | Enabled |
 | -------------------------------------------------------------------------------------------- | ----: | ------: |
-| [ESLint](https://eslint.org/docs/rules/)                                                     | 259   | **236** |
+| [ESLint](https://eslint.org/docs/rules/)                                                     | 264   | **241** |
 | [eslint-plugin-promise](https://github.com/xjamundx/eslint-plugin-promise)                   | 14    | **11**  |
 | [eslint-plugin-security](https://github.com/nodesecurity/eslint-plugin-security)             | 13    | **12**  |
 | [eslint-plugin-import](https://github.com/benmosher/eslint-plugin-import)                    | 40    | **32**  |
@@ -26,7 +26,7 @@ This config is designed to be compatible with Douglas Crockford's
 | [eslint-plugin-optimize-regex](https://github.com/BrainMaestro/eslint-plugin-optimize-regex) | 1     | **1**   |
 | [eslint-plugin-sonarjs](https://github.com/SonarSource/eslint-plugin-sonarjs)                | 25    | **24**  |
 | [eslint-plugin-fp](https://github.com/jfmengels/eslint-plugin-fp)                            | 17    | **15**  |
-| **Total**                                                                                    | 418   | **373** |
+| **Total**                                                                                    | 423   | **378** |
 
 ## Usage
 
