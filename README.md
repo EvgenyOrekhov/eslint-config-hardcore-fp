@@ -1,3 +1,14 @@
+# Deprecated in favor of [eslint-config-hardcore](https://github.com/EvgenyOrekhov/eslint-config-hardcore) and its additional `hardcore/fp` config
+
+## How to migrate to eslint-config-hardcore
+
+```diff
+{
+-    "extends": ["hardcore-fp"]
++    "extends": ["hardcore", "hardcore/fp"]
+}
+```
+
 # Hardcore ESLint Shareable Config for functional programming
 
 [![Travis CI build status](https://img.shields.io/travis/EvgenyOrekhov/eslint-config-hardcore-fp/master.svg?style=flat-square)](https://travis-ci.org/EvgenyOrekhov/eslint-config-hardcore-fp)
